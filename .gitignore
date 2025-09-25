@@ -1,0 +1,6 @@
+*.json
+*.pdf
+*.docx
+__pycache__
+*.svg
+.streamlit/secrets.toml
